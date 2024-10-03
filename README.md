@@ -1,6 +1,6 @@
 # loan-recommendation-system 
 ## Problem Statement
-The objective of this case study is to develop a predictive model for LoanTap, an online platform specializing in customized loan products for millennials. The focus is on the underwriting process for Personal Loans. Given a set of attributes for an individual, the goal is to determine whether a credit line should be extended and, if so, to provide recommendations on the repayment terms. The model should accurately predict the likelihood of loan repayment versus default, helping LoanTap make informed lending decisions and minimize the risk of non-performing assets (NPAs).
+The objective of this case study is to develop a predictive model for LoanTap, an online platform specializing in customized loan products for millennials. The focus is on the underwriting process for Personal Loans. Given a set of attributes for an individual, the goal is to determine whether a credit line should be extended and, if so, to provide recommendations on the repayment terms. The model should accurately predict the likelihood of loan repayment versus default, helping LoanTap make informed lending decisions and minimize the risk of non-performing assets (NPAs). 
 
 ## Resources
 - [Kaggle Dataset](https://www.kaggle.com/datasets/ranitsarkar01/loantap-logisticregression)
